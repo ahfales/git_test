@@ -1,1 +1,1 @@
-Test test test adding some text here to learn how to use git
+Making some changes here to a previous version
